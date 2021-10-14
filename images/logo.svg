@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-midpoints="false"
+     inkscape:zoom="0.48996914"
+     inkscape:cx="440.84409"
+     inkscape:cy="427.57795"
+     inkscape:window-width="1366"
+     inkscape:window-height="717"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:rotation="90">
+    <sodipodi:guide
+       position="367.4963,208.86992"
+       orientation="0,-1"
+       id="guide11" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="376.46128"
+       y="548.78708"
+       width="348.73562"
+       height="111.35762"
+       id="rect30531" />
+    <rect
+       x="-493.65466"
+       y="339.41453"
+       width="1637.8307"
+       height="391.26878"
+       id="rect6039" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.0010712,-0.22172849,0.2403603,0.00171574,-7.7423493,186.928)"
+       id="text6037"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:1.25;font-family:Anurati;-inkscape-font-specification:Anurati;white-space:pre;shape-inside:url(#rect6039);fill:#ff0000;fill-opacity:1;stroke:none"><tspan
+         x="-493.6543"
+         y="517.01406"
+         id="tspan27764">Azzam-Fauzan</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text30529"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:Anurati;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect30531);-inkscape-font-specification:Anurati;font-stretch:normal;font-variant:normal" />
+  </g>
+</svg>
